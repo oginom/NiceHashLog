@@ -1,0 +1,8 @@
+export default {
+	//apiHost: 'https://api-test.nicehash.com',
+	apiHost: 'https://api2.nicehash.com',
+	apiKey: 'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx', //get it here: https://test.nicehash.com/my/settings/keys or https://new.nicehash.com/my/settings/keys
+	apiSecret: 'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxxxxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx',
+	orgId: 'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx',
+	sheetUrl; 'https://example.com/xxxx/exec',
+}
