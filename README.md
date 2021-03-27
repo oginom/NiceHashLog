@@ -1,5 +1,9 @@
-### NODE API
+### install
 
-	npm install
-- Enter your API key settings into config.js
-	node index.js
+```npm install```
+
+### execute
+
+`power` : total power consumption
+
+```node index.js {power}```
