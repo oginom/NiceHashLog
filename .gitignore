@@ -1,4 +1,4 @@
 config.js
 exchange.js
 switchbot.js
-
+node_modules/*
